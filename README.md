@@ -125,4 +125,4 @@ Get your API key for free at:
 👉 https://www.omdbapi.com/apikey.aspx
 
 ## 🧑‍💻 Author
-Created by 
+Created BY [Vaibhav-coder-king](https://github.com/Vaibhav-coder-king)
