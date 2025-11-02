@@ -1,0 +1,713 @@
+name,year,genre,imdbrating,language,director,country
+The Elephant Man,1980,"Biography, Drama",8.2,English,David Lynch,"USA, UK"
+Raging Bull,1980,"Biography, Drama, Sport",8.2,English,Martin Scorsese,USA
+Kagemusha,1980,"Drama, History, War",8.0,Japanese,Akira Kurosawa,Japan
+Moscow Does Not Believe in Tears,1980,"Drama, Romance",8.0,Russian,Vladimir Menshov,Soviet Union
+The Shining,1980,"Drama, Horror",8.4,English,Stanley Kubrick,"USA, UK"
+Airplane!,1980,Comedy,7.7,English,Jim Abrahams,USA
+Star Wars: Episode V - The Empire Strikes Back,1980,"Action, Adventure, Fantasy",8.7,English,Irvin Kershner,USA
+Ordinary People,1980,Drama,7.7,English,Robert Redford,USA
+The Blue Lagoon,1980,"Adventure, Drama, Romance",5.8,English,Randal Kleiser,USA
+Friday the 13th,1980,"Horror, Mystery, Thriller",6.4,English,Sean S. Cunningham,USA
+Caddyshack,1980,"Comedy, Sport",7.3,English,Harold Ramis,USA
+The Blues Brothers,1980,"Action, Comedy, Crime",7.9,English,John Landis,USA
+9 to 5,1980,"Comedy, Drama",6.9,English,Colin Higgins,USA
+Stir Crazy,1980,"Comedy, Crime",6.7,English,Sidney Poitier,USA
+Coal Miner's Daughter,1980,"Biography, Drama, Music",7.5,English,Michael Apted,USA
+Das Boot,1981,"Drama, War",8.4,German,Wolfgang Petersen,Germany
+Raiders of the Lost Ark,1981,"Action, Adventure",8.4,English,Steven Spielberg,USA
+Blow Out,1981,"Mystery, Thriller",7.4,English,Brian De Palma,USA
+Chariots of Fire,1981,"Biography, Drama, Sport",7.1,English,Hugh Hudson,UK
+Arthur,1981,"Comedy, Drama, Romance",7.4,English,Steve Gordon,USA
+Reds,1981,"Drama, History, Romance",7.2,English,Warren Beatty,USA
+On Golden Pond,1981,Drama,7.6,English,Mark Rydell,USA
+An American Werewolf in London,1981,"Comedy, Horror",7.5,English,John Landis,"UK, USA"
+Escape from New York,1981,"Action, Adventure, Sci-Fi",7.2,English,John Carpenter,USA
+The Fox and the Hound,1981,"Animation, Adventure, Drama",7.3,English,Art Stevens,USA
+Mad Max 2,1981,"Action, Adventure, Sci-Fi",7.6,English,George Miller,Australia
+Body Heat,1981,"Crime, Drama, Thriller",7.4,English,Lawrence Kasdan,USA
+Fitzcarraldo,1982,"Adventure, Drama",8.1,German,Werner Herzog,"West Germany, Peru"
+E.T. the Extra-Terrestrial,1982,"Family, Sci-Fi",7.9,English,Steven Spielberg,USA
+Blade Runner,1982,"Action, Drama, Sci-Fi",8.1,English,Ridley Scott,USA
+The Thing,1982,"Horror, Mystery, Sci-Fi",8.2,English,John Carpenter,USA
+First Blood,1982,"Action, Adventure",7.7,English,Ted Kotcheff,USA
+Gandhi,1982,"Biography, Drama, History",8.0,English,Richard Attenborough,"UK, India, USA"
+Tootsie,1982,"Comedy, Drama, Romance",7.4,English,Sydney Pollack,USA
+Poltergeist,1982,"Horror, Thriller",7.3,English,Tobe Hooper,USA
+The Verdict,1982,Drama,7.7,English,Sidney Lumet,USA
+Sophie's Choice,1982,"Drama, Romance",7.6,English,Alan J. Pakula,USA
+Star Trek II: The Wrath of Khan,1982,"Action, Adventure, Sci-Fi",7.7,English,Nicholas Meyer,USA
+Scarface,1983,"Crime, Drama",8.3,English,Brian De Palma,USA
+Terms of Endearment,1983,"Comedy, Drama, Romance",7.4,English,James L. Brooks,USA
+Flashdance,1983,"Drama, Music, Romance",6.2,English,Adrian Lyne,USA
+Trading Places,1983,Comedy,7.5,English,John Landis,USA
+WarGames,1983,"Drama, Sci-Fi, Thriller",7.1,English,John Badham,USA
+A Christmas Story,1983,"Comedy, Family",7.9,English,Bob Clark,USA
+Risky Business,1983,"Comedy, Crime, Drama",6.8,English,Paul Brickman,USA
+Sudden Impact,1983,"Action, Crime, Thriller",6.7,English,Clint Eastwood,USA
+Octopussy,1983,"Action, Adventure, Thriller",6.5,English,John Glen,"UK, USA"
+Never Say Never Again,1983,"Action, Adventure, Thriller",6.2,English,Irvin Kershner,"UK, USA"
+Once Upon a Time in America,1984,"Crime, Drama",8.4,English,Sergio Leone,USA
+Amadeus,1984,"Biography, Drama, Music",8.4,English,Milos Forman,USA
+"Paris, Texas",1984,Drama,8.1,English,Wim Wenders,"West Germany, France, UK"
+Ghostbusters,1984,"Action, Comedy, Fantasy",7.8,English,Ivan Reitman,USA
+The Terminator,1984,"Action, Sci-Fi",8.1,English,James Cameron,USA
+Beverly Hills Cop,1984,"Action, Comedy, Crime",7.3,English,Martin Brest,USA
+Gremlins,1984,"Comedy, Fantasy, Horror",7.3,English,Joe Dante,USA
+The Karate Kid,1984,"Action, Drama, Family",7.3,English,John G. Avildsen,USA
+Indiana Jones and the Temple of Doom,1984,"Action, Adventure",7.5,English,Steven Spielberg,USA
+A Nightmare on Elm Street,1984,Horror,7.4,English,Wes Craven,USA
+Police Academy,1984,"Comedy, Crime",6.7,English,Hugh Wilson,USA
+Footloose,1984,"Drama, Music, Romance",6.5,English,Herbert Ross,USA
+Romancing the Stone,1984,"Action, Adventure, Comedy",6.9,English,Robert Zemeckis,USA
+Ran,1985,"Action, Drama, War",8.2,Japanese,Akira Kurosawa,Japan
+Back to the Future,1985,"Adventure, Comedy, Sci-Fi",8.5,English,Robert Zemeckis,USA
+The Breakfast Club,1985,"Comedy, Drama",7.8,English,John Hughes,USA
+Come and See,1985,"Drama, War",8.4,Russian,Elem Klimov,Soviet Union
+The Color Purple,1985,Drama,7.7,English,Steven Spielberg,USA
+Witness,1985,"Crime, Drama, Romance",7.4,English,Peter Weir,USA
+Brazil,1985,"Drama, Sci-Fi",7.9,English,Terry Gilliam,"UK, USA"
+Out of Africa,1985,"Biography, Drama, Romance",7.2,English,Sydney Pollack,USA
+The Goonies,1985,"Adventure, Comedy, Family",7.8,English,Richard Donner,USA
+Mad Max Beyond Thunderdome,1985,"Action, Adventure, Sci-Fi",6.2,English,George Miller,Australia
+Rocky IV,1985,"Action, Drama, Sport",6.0,English,Sylvester Stallone,USA
+Rambo: First Blood Part II,1985,"Action, Adventure, Thriller",6.4,English,George P. Cosmatos,USA
+Fletch,1985,"Comedy, Crime, Mystery",6.8,English,Michael Ritchie,USA
+Prizzi's Honor,1985,"Comedy, Crime, Drama",6.7,English,John Huston,USA
+Spies Like Us,1985,Comedy,6.4,English,John Landis,USA
+Aliens,1986,"Action, Adventure, Sci-Fi",8.4,English,James Cameron,USA
+Platoon,1986,"Drama, War",8.1,English,Oliver Stone,USA
+Blue Velvet,1986,"Drama, Mystery, Thriller",7.7,English,David Lynch,USA
+Jean de Florette,1986,Drama,8.1,French,Claude Berri,France
+Manon des Sources,1986,Drama,8.0,French,Claude Berri,France
+The Sacrifice,1986,Drama,8.1,Swedish,Andrei Tarkovsky,"Sweden, France, UK"
+Top Gun,1986,"Action, Drama",6.9,English,Tony Scott,USA
+Ferris Bueller's Day Off,1986,Comedy,7.8,English,John Hughes,USA
+Stand by Me,1986,"Adventure, Drama",8.1,English,Rob Reiner,USA
+The Fly,1986,"Drama, Horror, Sci-Fi",7.6,English,David Cronenberg,USA
+Pretty in Pink,1986,"Comedy, Drama, Romance",6.8,English,Howard Deutch,USA
+Crocodile Dundee,1986,"Adventure, Comedy, Romance",6.5,English,Peter Faiman,Australia
+Star Trek IV: The Voyage Home,1986,"Adventure, Comedy, Sci-Fi",7.3,English,Leonard Nimoy,USA
+Three Amigos,1986,"Comedy, Western",6.4,English,John Landis,USA
+Labyrinth,1986,"Adventure, Family, Fantasy",7.3,English,Jim Henson,"UK, USA"
+Full Metal Jacket,1987,"Drama, War",8.3,English,Stanley Kubrick,"UK, USA"
+The Princess Bride,1987,"Adventure, Comedy, Family",8.0,English,Rob Reiner,USA
+Au Revoir les Enfants,1987,"Drama, War",8.0,French,Louis Malle,France
+Wings of Desire,1987,"Drama, Fantasy, Romance",8.1,German,Wim Wenders,"West Germany, France"
+Dirty Dancing,1987,"Drama, Music, Romance",7.0,English,Emile Ardolino,USA
+Fatal Attraction,1987,"Drama, Thriller",6.9,English,Adrian Lyne,USA
+"Good Morning, Vietnam",1987,"Biography, Comedy, Drama",7.3,English,Barry Levinson,USA
+The Untouchables,1987,"Crime, Drama, Thriller",7.9,English,Brian De Palma,USA
+Lethal Weapon,1987,"Action, Crime, Thriller",7.6,English,Richard Donner,USA
+RoboCop,1987,"Action, Crime, Sci-Fi",7.6,English,Paul Verhoeven,USA
+Predator,1987,"Action, Adventure, Horror",7.8,English,John McTiernan,USA
+Spaceballs,1987,"Adventure, Comedy, Sci-Fi",7.1,English,Mel Brooks,USA
+Broadcast News,1987,"Comedy, Drama, Romance",7.2,English,James L. Brooks,USA
+Moonstruck,1987,"Comedy, Drama, Romance",7.1,English,Norman Jewison,USA
+Grave of the Fireflies,1988,"Animation, Drama, War",8.5,Japanese,Isao Takahata,Japan
+Die Hard,1988,"Action, Thriller",8.2,English,John McTiernan,USA
+Cinema Paradiso,1988,"Drama, Romance",8.5,Italian,Giuseppe Tornatore,Italy
+My Neighbor Totoro,1988,"Animation, Family, Fantasy",8.2,Japanese,Hayao Miyazaki,Japan
+Rain Man,1988,Drama,8.0,English,Barry Levinson,USA
+Who Framed Roger Rabbit,1988,"Animation, Adventure, Comedy",7.7,English,Robert Zemeckis,USA
+Beetlejuice,1988,"Comedy, Fantasy",7.5,English,Tim Burton,USA
+Big,1988,"Comedy, Drama, Fantasy",7.3,English,Penny Marshall,USA
+Coming to America,1988,"Comedy, Drama, Romance",7.1,English,John Landis,USA
+Scrooged,1988,"Comedy, Drama, Fantasy",7.0,English,Richard Donner,USA
+Bloodsport,1988,"Action, Biography, Drama",6.8,English,Newt Arnold,USA
+Cocktail,1988,"Drama, Romance",5.9,English,Roger Donaldson,USA
+Rambo III,1988,"Action, Adventure, Thriller",5.7,English,Peter MacDonald,USA
+Indiana Jones and the Last Crusade,1989,"Action, Adventure",8.2,English,Steven Spielberg,USA
+Dead Poets Society,1989,"Comedy, Drama",8.1,English,Peter Weir,USA
+Crimes and Misdemeanors,1989,"Comedy, Drama",8.0,English,Woody Allen,USA
+Driving Miss Daisy,1989,"Comedy, Drama",7.4,English,Bruce Beresford,USA
+Field of Dreams,1989,"Drama, Family, Fantasy",7.5,English,Phil Alden Robinson,USA
+When Harry Met Sally...,1989,"Comedy, Drama, Romance",7.7,English,Rob Reiner,USA
+Batman,1989,"Action, Adventure",7.5,English,Tim Burton,USA
+Lethal Weapon 2,1989,"Action, Crime, Thriller",7.2,English,Richard Donner,USA
+"Honey, I Shrunk the Kids",1989,"Adventure, Comedy, Family",6.4,English,Joe Johnston,USA
+The Little Mermaid,1989,"Animation, Family, Fantasy",7.6,English,Ron Clements,USA
+Back to the Future Part II,1989,"Adventure, Comedy, Sci-Fi",7.8,English,Robert Zemeckis,USA
+Born on the Fourth of July,1989,"Biography, Drama, War",7.2,English,Oliver Stone,USA
+Do the Right Thing,1989,"Comedy, Drama",7.9,English,Spike Lee,USA
+"Sex, Lies, and Videotape",1989,Drama,7.2,English,Steven Soderbergh,USA
+Goodfellas,1990,"Biography, Crime, Drama",8.7,English,Martin Scorsese,USA
+Close-Up,1990,"Crime, Drama",8.3,Persian,Abbas Kiarostami,Iran
+Miller's Crossing,1990,"Crime, Drama, Thriller",7.7,English,Joel Coen,USA
+Dances with Wolves,1990,"Adventure, Drama, Western",8.0,English,Kevin Costner,USA
+Ghost,1990,"Drama, Fantasy, Romance",7.1,English,Jerry Zucker,USA
+Pretty Woman,1990,"Comedy, Romance",7.1,English,Garry Marshall,USA
+Home Alone,1990,"Comedy, Family",7.7,English,Chris Columbus,USA
+Total Recall,1990,"Action, Adventure, Sci-Fi",7.5,English,Paul Verhoeven,USA
+Die Hard 2,1990,"Action, Thriller",7.1,English,Renny Harlin,USA
+Edward Scissorhands,1990,"Drama, Fantasy, Romance",7.9,English,Tim Burton,USA
+The Godfather Part III,1990,"Crime, Drama",7.6,English,Francis Ford Coppola,USA
+Teenage Mutant Ninja Turtles,1990,"Action, Adventure, Comedy",6.8,English,Steve Barron,USA
+Back to the Future Part III,1990,"Adventure, Comedy, Sci-Fi",7.4,English,Robert Zemeckis,USA
+Misery,1990,"Drama, Thriller",7.8,English,Rob Reiner,USA
+The Silence of the Lambs,1991,"Crime, Drama, Thriller",8.6,English,Jonathan Demme,USA
+Beauty and the Beast,1991,"Animation, Family, Fantasy",8.0,English,Gary Trousdale,USA
+Raise the Red Lantern,1991,Drama,8.1,Mandarin,Zhang Yimou,China
+Terminator 2: Judgment Day,1991,"Action, Sci-Fi",8.6,English,James Cameron,USA
+Robin Hood: Prince of Thieves,1991,"Action, Adventure, Drama",6.9,English,Kevin Reynolds,USA
+The Addams Family,1991,"Comedy, Fantasy",6.9,English,Barry Sonnenfeld,USA
+City Slickers,1991,"Comedy, Drama, Western",6.7,English,Ron Underwood,USA
+Boyz n the Hood,1991,"Crime, Drama",7.8,English,John Singleton,USA
+Thelma & Louise,1991,"Adventure, Crime, Drama",7.5,English,Ridley Scott,USA
+JFK,1991,"Drama, History, Thriller",8.0,English,Oliver Stone,USA
+Point Break,1991,"Action, Crime, Thriller",7.3,English,Kathryn Bigelow,USA
+Fried Green Tomatoes,1991,Drama,7.7,English,Jon Avnet,USA
+Cape Fear,1991,"Crime, Thriller",7.3,English,Martin Scorsese,USA
+Unforgiven,1992,"Drama, Western",8.2,English,Clint Eastwood,USA
+Reservoir Dogs,1992,"Crime, Drama, Thriller",8.3,English,Quentin Tarantino,USA
+Strictly Ballroom,1992,"Comedy, Drama, Music",7.3,English,Baz Luhrmann,Australia
+Aladdin,1992,"Animation, Adventure, Comedy",8.0,English,Ron Clements,USA
+The Bodyguard,1992,"Drama, Music, Romance",6.3,English,Mick Jackson,USA
+A Few Good Men,1992,"Drama, Thriller",7.7,English,Rob Reiner,USA
+Basic Instinct,1992,"Drama, Mystery, Thriller",7.0,English,Paul Verhoeven,USA
+Scent of a Woman,1992,Drama,8.0,English,Martin Brest,USA
+The Crying Game,1992,"Crime, Drama, Romance",7.2,English,Neil Jordan,"UK, Japan, USA"
+Wayne's World,1992,"Comedy, Music",7.0,English,Penelope Spheeris,USA
+Bram Stoker's Dracula,1992,"Drama, Fantasy, Horror",7.4,English,Francis Ford Coppola,USA
+A League of Their Own,1992,"Comedy, Drama, Sport",7.3,English,Penny Marshall,USA
+Farewell My Concubine,1993,"Drama, Music, Romance",8.1,Mandarin,Chen Kaige,China
+Jurassic Park,1993,"Action, Adventure, Sci-Fi",8.2,English,Steven Spielberg,USA
+Schindler's List,1993,"Biography, Drama, History",8.9,English,Steven Spielberg,USA
+Groundhog Day,1993,"Comedy, Drama, Fantasy",8.1,English,Harold Ramis,USA
+The Nightmare Before Christmas,1993,"Animation, Family, Fantasy",8.0,English,Henry Selick,USA
+Mrs. Doubtfire,1993,"Comedy, Drama, Family",7.0,English,Chris Columbus,USA
+The Fugitive,1993,"Action, Crime, Drama",7.8,English,Andrew Davis,USA
+Philadelphia,1993,Drama,7.7,English,Jonathan Demme,USA
+True Romance,1993,"Crime, Drama, Romance",7.9,English,Tony Scott,USA
+Tombstone,1993,"Action, Biography, Drama",7.8,English,George P. Cosmatos,USA
+What's Eating Gilbert Grape,1993,Drama,7.7,English,Lasse Hallström,USA
+Cool Runnings,1993,"Adventure, Comedy, Family",7.0,English,Jon Turteltaub,USA
+In the Line of Fire,1993,"Action, Crime, Drama",7.2,English,Wolfgang Petersen,USA
+The Shawshank Redemption,1994,Drama,9.3,English,Frank Darabont,USA
+Pulp Fiction,1994,"Crime, Drama",8.9,English,Quentin Tarantino,USA
+Forrest Gump,1994,"Drama, Romance",8.8,English,Robert Zemeckis,USA
+Léon: The Professional,1994,"Action, Crime, Drama",8.5,English,Luc Besson,France
+Three Colors: Red,1994,"Drama, Mystery, Romance",8.1,French,Krzysztof Kieślowski,"France, Poland, Switzerland"
+Chungking Express,1994,"Comedy, Drama, Romance",8.1,Cantonese,Wong Kar-wai,Hong Kong
+The Lion King,1994,"Animation, Adventure, Drama",8.5,English,Rob Minkoff,USA
+Speed,1994,"Action, Adventure, Thriller",7.2,English,Jan de Bont,USA
+Dumb and Dumber,1994,Comedy,7.3,English,Peter Farrelly,USA
+True Lies,1994,"Action, Comedy, Thriller",7.2,English,James Cameron,USA
+The Mask,1994,"Action, Comedy, Crime",6.9,English,Chuck Russell,USA
+Ace Ventura: Pet Detective,1994,"Comedy, Mystery",6.9,English,Tom Shadyac,USA
+Interview with the Vampire,1994,"Drama, Fantasy, Horror",7.5,English,Neil Jordan,USA
+Clear and Present Danger,1994,"Action, Crime, Drama",7.0,English,Phillip Noyce,USA
+The Client,1994,"Crime, Drama, Mystery",6.7,English,Joel Schumacher,USA
+Before Sunrise,1995,"Drama, Romance",8.1,English,Richard Linklater,"USA, Austria, Switzerland"
+Se7en,1995,"Crime, Drama, Mystery",8.6,English,David Fincher,USA
+Toy Story,1995,"Animation, Adventure, Comedy",8.3,English,John Lasseter,USA
+La Haine,1995,"Crime, Drama",8.1,French,Mathieu Kassovitz,France
+Braveheart,1995,"Biography, Drama, History",8.4,English,Mel Gibson,USA
+Casino,1995,"Crime, Drama",8.2,English,Martin Scorsese,USA
+Heat,1995,"Action, Crime, Drama",8.3,English,Michael Mann,USA
+Apollo 13,1995,"Adventure, Drama, History",7.7,English,Ron Howard,USA
+GoldenEye,1995,"Action, Adventure, Thriller",7.2,English,Martin Campbell,"UK, USA"
+Die Hard with a Vengeance,1995,"Action, Adventure, Thriller",7.6,English,John McTiernan,USA
+Waterworld,1995,"Action, Adventure, Sci-Fi",6.2,English,Kevin Reynolds,USA
+Jumanji,1995,"Adventure, Comedy, Family",7.0,English,Joe Johnston,USA
+Batman Forever,1995,"Action, Adventure",5.4,English,Joel Schumacher,USA
+Clueless,1995,"Comedy, Romance",6.8,English,Amy Heckerling,USA
+Fargo,1996,"Crime, Drama, Thriller",8.1,English,Joel Coen,USA
+Trainspotting,1996,Drama,8.1,English,Danny Boyle,"UK, USA"
+Breaking the Waves,1996,"Drama, Romance",7.9,English,Lars von Trier,"Denmark, Sweden, France"
+Shall We Dance?,1996,"Comedy, Drama, Music",7.7,Japanese,Masayuki Suo,Japan
+Independence Day,1996,"Action, Adventure, Sci-Fi",7.0,English,Roland Emmerich,USA
+Jerry Maguire,1996,"Comedy, Drama, Romance",7.3,English,Cameron Crowe,USA
+The Rock,1996,"Action, Adventure, Thriller",7.4,English,Michael Bay,USA
+Mission: Impossible,1996,"Action, Adventure, Thriller",7.1,English,Brian De Palma,USA
+Twister,1996,"Action, Adventure, Thriller",6.4,English,Jan de Bont,USA
+The English Patient,1996,"Drama, Romance, War",7.4,English,Anthony Minghella,"USA, UK"
+Scream,1996,"Horror, Mystery",7.4,English,Wes Craven,USA
+Romeo + Juliet,1996,"Drama, Romance",6.7,English,Baz Luhrmann,"USA, Canada"
+The Hunchback of Notre Dame,1996,"Animation, Drama, Family",7.0,English,Gary Trousdale,USA
+L.A. Confidential,1997,"Crime, Drama, Mystery",8.2,English,Curtis Hanson,USA
+Life Is Beautiful,1997,"Comedy, Drama, Romance",8.6,Italian,Roberto Benigni,Italy
+Princess Mononoke,1997,"Animation, Adventure, Fantasy",8.4,Japanese,Hayao Miyazaki,Japan
+Boogie Nights,1997,Drama,7.9,English,Paul Thomas Anderson,USA
+Good Will Hunting,1997,"Drama, Romance",8.3,English,Gus Van Sant,USA
+Titanic,1997,"Drama, Romance",7.9,English,James Cameron,USA
+Men in Black,1997,"Action, Adventure, Comedy",7.3,English,Barry Sonnenfeld,USA
+The Fifth Element,1997,"Action, Adventure, Sci-Fi",7.7,English,Luc Besson,France
+Air Force One,1997,"Action, Drama, Thriller",6.5,English,Wolfgang Petersen,USA
+Face/Off,1997,"Action, Crime, Sci-Fi",7.3,English,John Woo,USA
+As Good as It Gets,1997,"Comedy, Drama, Romance",7.7,English,James L. Brooks,USA
+The Full Monty,1997,"Comedy, Drama",7.2,English,Peter Cattaneo,"UK, USA"
+Tomorrow Never Dies,1997,"Action, Adventure, Thriller",6.5,English,Roger Spottiswoode,"UK, USA"
+Anastasia,1997,"Animation, Adventure, Drama",7.1,English,Don Bluth,USA
+Saving Private Ryan,1998,"Drama, War",8.6,English,Steven Spielberg,USA
+The Big Lebowski,1998,"Comedy, Crime",8.1,English,Joel Coen,USA
+American History X,1998,Drama,8.5,English,Tony Kaye,USA
+Run Lola Run,1998,"Action, Crime, Thriller",7.8,German,Tom Tykwer,Germany
+Central Station,1998,Drama,8.0,Portuguese,Walter Salles,"Brazil, France"
+The Truman Show,1998,"Comedy, Drama",8.2,English,Peter Weir,USA
+Armageddon,1998,"Action, Adventure, Sci-Fi",6.7,English,Michael Bay,USA
+There's Something About Mary,1998,"Comedy, Romance",7.1,English,Bobby Farrelly,USA
+Shakespeare in Love,1998,"Comedy, Drama, Romance",7.1,English,John Madden,"UK, USA"
+The Thin Red Line,1998,"Drama, War",7.6,English,Terrence Malick,USA
+Enemy of the State,1998,"Action, Thriller",7.3,English,Tony Scott,USA
+Rush Hour,1998,"Action, Comedy, Crime",7.0,English,Brett Ratner,USA
+Patch Adams,1998,"Biography, Comedy, Drama",6.8,English,Tom Shadyac,USA
+Deep Impact,1998,"Action, Drama, Sci-Fi",6.2,English,Mimi Leder,USA
+The Matrix,1999,"Action, Sci-Fi",8.7,English,"Lana Wachowski, Lilly Wachowski",USA
+Fight Club,1999,Drama,8.8,English,David Fincher,USA
+American Beauty,1999,Drama,8.3,English,Sam Mendes,USA
+The Sixth Sense,1999,"Drama, Mystery, Thriller",8.2,English,M. Night Shyamalan,USA
+All About My Mother,1999,Drama,7.9,Spanish,Pedro Almodóvar,Spain
+Magnolia,1999,Drama,8.0,English,Paul Thomas Anderson,USA
+Being John Malkovich,1999,"Comedy, Drama, Fantasy",7.7,English,Spike Jonze,USA
+The Green Mile,1999,"Crime, Drama, Fantasy",8.6,English,Frank Darabont,USA
+Star Wars: Episode I - The Phantom Menace,1999,"Action, Adventure, Fantasy",6.5,English,George Lucas,USA
+The Mummy,1999,"Action, Adventure, Fantasy",7.1,English,Stephen Sommers,USA
+Toy Story 2,1999,"Animation, Adventure, Comedy",7.9,English,John Lasseter,USA
+The World Is Not Enough,1999,"Action, Adventure, Thriller",6.4,English,Michael Apted,"UK, USA"
+Eyes Wide Shut,1999,"Drama, Mystery, Thriller",7.5,English,Stanley Kubrick,"UK, USA"
+The Blair Witch Project,1999,"Horror, Mystery",6.5,English,Daniel Myrick,USA
+"Crouching Tiger, Hidden Dragon",2000,"Action, Drama, Fantasy",7.9,Mandarin,Ang Lee,"Taiwan, Hong Kong, USA, China"
+Gladiator,2000,"Action, Adventure, Drama",8.5,English,Ridley Scott,"UK, USA"
+Memento,2000,"Mystery, Thriller",8.4,English,Christopher Nolan,USA
+Amores Perros,2000,"Drama, Thriller",8.1,Spanish,Alejandro G. Iñárritu,Mexico
+In the Mood for Love,2000,"Drama, Romance",8.1,Cantonese,Wong Kar-wai,"Hong Kong, China"
+Cast Away,2000,"Adventure, Drama, Romance",7.8,English,Robert Zemeckis,USA
+Requiem for a Dream,2000,Drama,8.3,English,Darren Aronofsky,USA
+X-Men,2000,"Action, Adventure, Sci-Fi",7.3,English,Bryan Singer,USA
+Almost Famous,2000,"Adventure, Comedy, Drama",7.9,English,Cameron Crowe,USA
+Meet the Parents,2000,"Comedy, Romance",7.0,English,Jay Roach,USA
+Traffic,2000,"Crime, Drama, Thriller",7.6,English,Steven Soderbergh,USA
+"O Brother, Where Art Thou?",2000,"Adventure, Comedy, Crime",7.7,English,Joel Coen,"UK, France, USA"
+Snatch,2000,"Comedy, Crime",8.2,English,Guy Ritchie,"UK, USA"
+Mission: Impossible II,2000,"Action, Adventure, Thriller",6.1,English,John Woo,USA
+Dinosaur,2000,"Animation, Adventure, Drama",6.5,English,"Eric Leighton, Ralph Zondag",USA
+A Beautiful Mind,2001,"Biography, Drama, Mystery",8.2,English,Ron Howard,USA
+The Lord of the Rings: The Fellowship of the Ring,2001,"Adventure, Drama, Fantasy",8.8,English,Peter Jackson,"New Zealand, USA"
+Amélie,2001,"Comedy, Romance",8.3,French,Jean-Pierre Jeunet,France
+Mulholland Drive,2001,"Drama, Mystery, Thriller",7.9,English,David Lynch,"France, USA"
+Monsoon Wedding,2001,"Comedy, Drama, Romance",7.3,English,Mira Nair,"India, USA, Italy, France, Germany"
+Lagaan: Once Upon a Time in India,2001,"Adventure, Drama, Musical",8.1,Hindi,Ashutosh Gowariker,India
+Harry Potter and the Sorcerer's Stone,2001,"Adventure, Family, Fantasy",7.6,English,Chris Columbus,"UK, USA"
+Shrek,2001,"Animation, Adventure, Comedy",7.9,English,"Andrew Adamson, Vicky Jenson",USA
+The Others,2001,"Horror, Mystery, Thriller",7.6,English,Alejandro Amenábar,"Spain, USA, France, Italy"
+Moulin Rouge!,2001,"Drama, Musical, Romance",7.6,English,Baz Luhrmann,"Australia, USA"
+Ocean's Eleven,2001,"Crime, Thriller",7.7,English,Steven Soderbergh,USA
+Black Hawk Down,2001,"Drama, History, War",7.7,English,Ridley Scott,"UK, USA"
+Pearl Harbor,2001,"Action, Drama, History",6.2,English,Michael Bay,USA
+Sholay,1975,"Action, Adventure, Comedy",8.2,Hindi,Ramesh Sippy,Bollywood
+Moondram Pirai,1982,"Drama, Romance",8.4,Tamil,Balu Mahendra,Kollywood
+Saaransh,1984,Drama,8.2,Hindi,Mahesh Bhatt,Bollywood
+Jaane Bhi Do Yaaro,1983,"Comedy, Crime, Drama",8.5,Hindi,Kundan Shah,Bollywood
+Ardh Satya,1983,"Crime, Drama",8.3,Hindi,Govind Nihalani,Bollywood
+Kharij,1982,Drama,8.3,Bengali,Mrinal Sen,Tollywood
+Masoom,1983,"Drama, Family",8.3,Hindi,Shekhar Kapur,Bollywood
+Party,1984,Drama,8.0,Hindi,Govind Nihalani,Bollywood
+Chidambaram,1985,Drama,8.2,Tamil,G. Aravindan,Kollywood
+Tamas,1987,"Drama, History",8.6,Hindi,Govind Nihalani,Bollywood
+Pushpaka Vimana,1987,"Comedy, Drama",8.7,Kannada,Singeetam Srinivasa Rao,Sandalwood
+Nayakan,1987,"Crime, Drama",8.5,Tamil,Mani Ratnam,Kollywood
+Piravi,1988,Drama,8.4,Malayalam,Shaji N. Karun,Mollywood
+Salaam Bombay!,1988,Drama,8.0,Hindi,Mira Nair,Bollywood
+Parinda,1989,"Action, Crime, Drama",8.1,Hindi,Vidhu Vinod Chopra,Bollywood
+Apur Sansar,1959,Drama,8.5,Bengali,Satyajit Ray,Tollywood
+Meghe Dhaka Tara,1960,Drama,8.4,Bengali,Ritwik Ghatak,Tollywood
+Ankur,1974,Drama,8.2,Hindi,Shyam Benegal,Bollywood
+Mughal-E-Azam,1960,"Drama, History, Romance",8.2,Hindi,K. Asif,Bollywood
+Pyaasa,1957,"Drama, Musical, Romance",8.4,Hindi,Guru Dutt,Bollywood
+Awaara,1951,"Drama, Musical, Romance",8.2,Hindi,Raj Kapoor,Bollywood
+Guide,1965,"Drama, Musical, Romance",8.1,Hindi,Vijay Anand,Bollywood
+Gol Maal,1979,Comedy,8.5,Hindi,Hrishikesh Mukherjee,Bollywood
+Khosla Ka Ghosla,2006,"Comedy, Crime, Drama",8.4,Hindi,Dibakar Banerjee,Bollywood
+Udaan,2010,Drama,8.2,Hindi,Vikramaditya Motwane,Bollywood
+Tare Zameen Par,2007,"Drama, Family",8.3,Hindi,Aamir Khan,Bollywood
+3 Idiots,2009,"Comedy, Drama",8.4,Hindi,Rajkumar Hirani,Bollywood
+Rang De Basanti,2006,"Drama, History",8.2,Hindi,Rakeysh Omprakash Mehra,Bollywood
+Andhadhun,2018,"Crime, Mystery, Thriller",8.2,Hindi,Sriram Raghavan,Bollywood
+Drishyam,2015,"Crime, Drama, Mystery",8.2,Hindi,Nishikant Kamat,Bollywood
+Paan Singh Tomar,2012,"Action, Biography, Crime",8.2,Hindi,Tigmanshu Dhulia,Bollywood
+The Lunchbox,2013,"Drama, Romance",7.8,Hindi,Ritesh Batra,Bollywood
+Masaan,2015,"Drama, Romance",8.1,Hindi,Neeraj Ghaywan,Bollywood
+Newton,2017,"Comedy, Drama",7.7,Hindi,Amit V. Masurkar,Bollywood
+Badhaai Ho,2018,"Comedy, Drama",7.9,Hindi,Amit Ravindernath Sharma,Bollywood
+Article 15,2019,"Crime, Drama, Mystery",8.2,Hindi,Anubhav Sinha,Bollywood
+Tumbbad,2018,"Drama, Fantasy, Horror",8.2,Hindi,Rahi Anil Barve,Bollywood
+Anbe Sivam,2003,"Adventure, Comedy, Drama",8.7,Tamil,Sundar C.,Kollywood
+Nayagan,1987,"Crime, Drama",8.5,Tamil,Mani Ratnam,Kollywood
+Super Deluxe,2019,"Comedy, Drama, Thriller",8.3,Tamil,Thiagarajan Kumararaja,Kollywood
+Vikram Vedha,2017,"Action, Crime, Drama",8.2,Tamil,Gayatri,Pushkar,Kollywood
+Pariyerum Perumal,2018,Drama,8.6,Tamil,Mari Selvaraj,Kollywood
+Kaithi,2019,"Action, Thriller",8.5,Tamil,Lokesh Kanagaraj,Kollywood
+Jai Bhim,2021,"Crime, Drama, Mystery",8.9,Tamil,T. J. Gnanavel,Kollywood
+Vada Chennai,2018,"Action, Crime, Drama",8.5,Tamil,Venkat Prabhu,Kollywood
+96,2018,"Drama, Romance",8.6,Tamil,C. Prem Kumar,Kollywood
+Karnan,2021,"Action, Drama",8.5,Tamil,Mari Selvaraj,Kollywood
+Maanaadu,2021,"Action, Sci-Fi, Thriller",8.6,Tamil,Venkat Prabhu,Kollywood
+Sarpatta Parambarai,2021,"Action, Drama, Sport",8.7,Tamil,Pa. Ranjith,Kollywood
+Pithamagan,2003,"Action, Drama",8.2,Tamil,Bala,Kollywood
+Anniyan,2005,"Action, Drama, Thriller",7.9,Tamil,S. Shankar,Kollywood
+Ghajini,2005,"Action, Drama, Mystery",7.8,Tamil,A. R. Murugadoss,Kollywood
+Kannathil Muthamittal,2002,"Drama, War",8.3,Tamil,Mani Ratnam,Kollywood
+Virumandi,2004,"Action, Crime, Drama",8.4,Tamil,Kamal Haasan,Kollywood
+Indian,1996,"Action, Drama, Thriller",7.9,Tamil,S. Shankar,Kollywood
+Baahubali: The Beginning,2015,"Action, Drama",8.0,Telugu,S. S. Rajamouli,Tollywood
+Baahubali 2: The Conclusion,2017,"Action, Drama",8.2,Telugu,S. S. Rajamouli,Tollywood
+RRR,2022,"Action, Drama",8.0,Telugu,S. S. Rajamouli,Tollywood
+Arjun Reddy,2017,"Action, Drama, Romance",8.0,Telugu,Sandeep Reddy Vanga,Tollywood
+Jersey,2019,"Drama, Sport",8.5,Telugu,Gowtam Tinnanuri,Tollywood
+Maharshi,2019,"Action, Drama",7.8,Telugu,Vamshi Paidipally,Tollywood
+Bharat Ane Nenu,2018,"Action, Drama",7.8,Telugu,Koratala Siva,Tollywood
+Kshanam,2016,"Mystery, Thriller",8.3,Telugu,Ravikanth Perepu,Tollywood
+Brochevarevarura,2019,"Comedy, Crime, Thriller",8.4,Telugu,Vivek Athreya,Tollywood
+Mathu Vadalara,2019,"Comedy, Crime, Thriller",8.3,Telugu,Ritesh Rana,Tollywood
+Agent Sai Srinivasa Athreya,2019,"Comedy, Crime, Thriller",8.3,Telugu,Swamy R. K.,Tollywood
+Kumbalangi Nights,2019,"Comedy, Drama, Romance",8.6,Malayalam,Madhu C. Narayanan,Mollywood
+Joji,2021,"Crime, Drama, Thriller",8.3,Malayalam,Dileesh Pothan,Mollywood
+Premam,2015,"Comedy, Drama, Romance",8.3,Malayalam,Alphonse Puthren,Mollywood
+Bangalore Days,2014,"Comedy, Drama, Romance",8.0,Malayalam,Anjali Menon,Mollywood
+Maheshinte Prathikaaram,2016,"Comedy, Drama, Romance",8.4,Malayalam,Dileesh Pothan,Mollywood
+Take Off,2017,"Drama, Thriller",8.1,Malayalam,Mahesh Narayanan,Mollywood
+Ee.Ma.Yau.,2018,"Comedy, Drama",8.3,Malayalam,Lijo Jose Pellissery,Mollywood
+Android Kunjappan Ver 5.25,2019,"Comedy, Drama, Sci-Fi",8.2,Malayalam,Ratheesh Balakrishnan Poduval,Mollywood
+Thondimuthalum Driksakshiyum,2017,"Crime, Drama",8.4,Malayalam,Dileesh Pothan,Mollywood
+Ustad Hotel,2012,"Comedy, Drama",8.3,Malayalam,Anwar Rasheed,Mollywood
+Classmates,2006,"Drama, Romance",7.9,Malayalam,Lal Jose,Mollywood
+Lucia,2013,"Drama, Fantasy, Thriller",8.4,Kannada,Pawan Kumar,Sandalwood
+Ulidavaru Kandanthe,2014,"Comedy, Crime, Drama",8.3,Kannada,Rakshit Shetty,Sandalwood
+Kirik Party,2016,"Comedy, Drama, Romance",8.5,Kannada,Rishab Shetty,Sandalwood
+Garuda Gamana Vrishabha Vahana,2021,"Action, Crime, Drama",8.7,Kannada,Raj B. Shetty,Sandalwood
+Kavaludaari,2019,"Crime, Mystery, Thriller",8.5,Kannada,Hemanth M. Rao,Sandalwood
+RangiTaranga,2015,"Mystery, Thriller",8.5,Kannada,Anup Bhandari,Sandalwood
+U Turn,2016,"Mystery, Thriller",8.0,Kannada,Pawan Kumar,Sandalwood
+Godhi Banna Sadharana Mykattu,2016,"Comedy, Drama",8.4,Kannada,Shashank Soghal,Sandalwood
+Operation Alamelamma,2017,"Comedy, Crime",8.3,Kannada,Rohit Padaki,Sandalwood
+Katha Sangama,2019,Drama,8.2,Kannada,Rohit Padaki,Sandalwood
+Pari,2018,"Fantasy, Horror, Thriller",6.9,Bengali,Prosit Roy,Tollywood
+Bhooter Bhabishyat,2012,"Comedy, Fantasy",8.4,Bengali,Anik Dutta,Tollywood
+Apur Panchali,2013,"Biography, Drama",8.3,Bengali,Kaushik Ganguly,Tollywood
+Chotushkone,2014,"Mystery, Thriller",8.3,Bengali,Srijit Mukherji,Tollywood
+Baishe Srabon,2011,"Crime, Thriller",8.2,Bengali,Srijit Mukherji,Tollywood
+Autograph,2010,"Drama, Romance",8.1,Bengali,Srijit Mukherji,Tollywood
+Chokher Bali,2003,"Drama, Romance",7.5,Bengali,Rituparno Ghosh,Tollywood
+Raincoat,2004,"Drama, Romance",8.0,Hindi,Rituparno Ghosh,Bollywood
+The Japanese Wife,2010,"Drama, Romance",7.2,Bengali,Aparna Sen,Tollywood
+Memories in March,2010,"Drama, Romance",7.3,Bengali,Sanjoy Nag,Tollywood
+Court,2014,Drama,7.6,Marathi,Chaitanya Tamhane,Mollywood
+Sairat,2016,"Drama, Musical, Romance",8.5,Marathi,Nagraj Manjule,Mollywood
+Fandry,2013,"Drama, Romance",8.4,Marathi,Nagraj Manjule,Mollywood
+Killa,2014,Drama,8.2,Marathi,Avinash Arun,Mollywood
+Elizabeth Ekadashi,2014,"Drama, Family",8.3,Marathi,Paresh Mokashi,Mollywood
+Natrang,2010,"Drama, Musical",8.4,Marathi,Ravi Jadhav,Mollywood
+Harishchandrachi Factory,2009,"Biography, Comedy, Drama",8.2,Marathi,Paresh Mokashi,Mollywood
+Deool,2011,Drama,8.3,Marathi,Umesh Vinayak Kulkarni,Mollywood
+Ventilator,2016,"Comedy, Drama",7.9,Marathi,Rajesh Mapuskar,Mollywood
+Natsamrat,2016,Drama,8.7,Marathi,Mahesh Manjrekar,Mollywood
+K.D.,2019,"Action, Drama",8.4,Marathi,Darren,Arulnos,Mollywood
+Brahmāstra: Part One – Shiva,2022,"Action, Adventure, Fantasy",5.6,Hindi,Ayan Mukerji,Bollywood
+Gangubai Kathiawadi,2022,"Biography, Crime, Drama",7.0,Hindi,Sanjay Leela Bhansali,Bollywood
+The Kashmir Files,2022,"Drama, History",8.3,Hindi,Vivek Agnihotri,Bollywood
+Karthikeya 2,2022,"Action, Adventure, Fantasy",8.2,Telugu,Chandoo Mondeti,Tollywood
+Kantara,2022,"Action, Drama, Thriller",8.2,Kannada,Rishab Shetty,Sandalwood
+Vikram,2022,"Action, Thriller",8.4,Tamil,Lokesh Kanagaraj,Kollywood
+Ponniyin Selvan: I,2022,"Action, Adventure, Drama",7.6,Tamil,Mani Ratnam,Kollywood
+777 Charlie,2022,"Adventure, Comedy, Drama",8.2,Kannada,Kiranraj K.,Sandalwood
+Rocketry: The Nambi Effect,2022,"Biography, Drama",8.2,Hindi,Madhavan,R.,Bollywood
+Jugjugg Jeeyo,2022,"Comedy, Drama, Romance",6.7,Hindi,Raj Mehta,Bollywood
+Bhool Bhulaiyaa 2,2022,"Comedy, Horror, Mystery",6.8,Hindi,Anees Bazmee,Bollywood
+Doctor G,2022,"Comedy, Drama",6.5,Hindi,Anubhuti Kashyap,Bollywood
+Ved,2022,"Drama, Romance",7.9,Marathi,Riteish Deshmukh,Mollywood
+Appatha,2022,Drama,8.3,Kannada,Priya Belliappa,Sandalwood
+"Monica, O My Darling",2022,"Comedy, Crime, Thriller",7.6,Hindi,Vasan Bala,Bollywood
+Gargi,2022,"Crime, Drama, Thriller",8.4,Tamil,Gautham Ramachandran,Kollywood
+Qala,2022,"Drama, Musical",7.1,Hindi,Anvita Dutt,Bollywood
+Blurr,2022,"Mystery, Thriller",5.9,Hindi,Ajay Bahl,Bollywood
+Freddy,2022,"Crime, Drama, Romance",6.6,Hindi,Shashanka Ghosh,Bollywood
+Chup: Revenge of the Artist,2022,"Crime, Drama, Thriller",7.6,Hindi,R. Balki,Bollywood
+Mister Mummy,2022,"Comedy, Drama, Family",6.2,Hindi,R. Balki,Bollywood
+Bhediya,2022,"Comedy, Fantasy, Horror",6.6,Hindi,Amar Kaushik,Bollywood
+An Action Hero,2022,"Action, Comedy, Thriller",7.0,Hindi,Anirudh Iyer,Bollywood
+Cirkus,2022,Comedy,4.6,Hindi,Rohit Shetty,Bollywood
+Drishyam 2,2022,"Crime, Drama, Mystery",8.2,Hindi,Abhishek Pathak,Bollywood
+Vadh,2022,"Crime, Drama, Thriller",7.9,Hindi,Jambhaliya,Jaspal,Bollywood
+Uunchai,2022,"Adventure, Drama",7.9,Hindi,Sooraj R. Barjatya,Bollywood
+Mili,2022,"Drama, Thriller",6.8,Hindi,Mathukutty Xavier,Bollywood
+Bholaa,2023,"Action, Adventure, Thriller",5.9,Hindi,Ajay Devgn,Bollywood
+Pathaan,2023,"Action, Adventure, Thriller",6.6,Hindi,Siddharth Anand,Bollywood
+Jawan,2023,"Action, Thriller",7.0,Hindi,Atlee,Bollywood
+Animal,2023,"Action, Crime, Drama",7.2,Hindi,Sandeep Reddy Vanga,Bollywood
+Dunki,2023,"Comedy, Drama",6.3,Hindi,Rajkumar Hirani,Bollywood
+Salaar: Part 1 – Ceasefire,2023,"Action, Drama",7.5,Telugu,Prashanth Neel,Tollywood
+Leo,2023,"Action, Crime, Thriller",7.4,Tamil,Lokesh Kanagaraj,Kollywood
+Jigarthanda DoubleX,2023,"Action, Crime, Drama",8.6,Tamil,Karthik Subbaraj,Kollywood
+Hi Nanna,2023,"Drama, Family, Romance",8.2,Telugu,Shouryuv,Tollywood
+Sam Bahadur,2023,"Biography, Drama, War",7.5,Hindi,Meghna Gulzar,Bollywood
+12th Fail,2023,"Biography, Drama",9.1,Hindi,Vidhu Vinod Chopra,Bollywood
+Apurva,2023,"Action, Adventure, Thriller",7.1,Hindi,Nikhil Nagesh Bhat,Bollywood
+Farrey,2023,"Crime, Drama, Thriller",7.9,Hindi,Soumyajit Majumdar,Bollywood
+The Vaccine War,2023,"Drama, History",5.9,Hindi,Vivek Agnihotri,Bollywood
+Tejas,2023,"Action, Drama, War",4.9,Hindi,Sarvesh Mewara,Bollywood
+Ganapath: A Hero Is Born,2023,"Action, Sci-Fi, Thriller",3.7,Hindi,Vikas Bahl,Bollywood
+Mission Raniganj,2023,"Action, Drama, Thriller",7.6,Hindi,Tinu Suresh Desai,Bollywood
+Thank You For Coming,2023,"Comedy, Drama",5.4,Hindi,Karan Boolani,Bollywood
+The Great Indian Family,2023,"Comedy, Drama, Musical",5.8,Hindi,Vijay Krishna Acharya,Bollywood
+Fukrey 3,2023,Comedy,5.7,Hindi,Mrighdeep Singh Lamba,Bollywood
+Sukhee,2023,"Comedy, Drama",5.9,Hindi,Sonal Joshi,Bollywood
+Dream Girl 2,2023,"Comedy, Romance",5.1,Hindi,Raaj Shaandilyaa,Bollywood
+SatyaPrem Ki Katha,2023,"Drama, Musical, Romance",7.5,Hindi,Sameer Vidwans,Bollywood
+Rocky Aur Rani Kii Prem Kahaani,2023,"Comedy, Drama, Romance",7.1,Hindi,Karan Johar,Bollywood
+OMG 2,2023,"Comedy, Drama",7.6,Hindi,Amit Rai,Bollywood
+Gadar 2,2023,"Action, Drama, Thriller",6.2,Hindi,Anil Sharma,Bollywood
+Bawaal,2023,"Drama, Romance",6.8,Hindi,Nitesh Tiwari,Bollywood
+Mrs. Chatterjee vs Norway,2023,Drama,7.5,Hindi,Ashima Chibber,Bollywood
+Zara Hatke Zara Bachke,2023,"Comedy, Drama, Romance",6.9,Hindi,Laxman Utekar,Bollywood
+Adipurush,2023,"Action, Drama",3.6,Hindi,Om Raut,Bollywood
+Bloody Daddy,2023,"Action, Crime, Thriller",6.3,Hindi,Ali Abbas Zafar,Bollywood
+The Kerala Story,2023,Drama,6.1,Hindi,Sudipto Sen,Bollywood
+1920: Horrors of the Heart,2023,"Horror, Thriller",4.9,Hindi,Krishna Bhatt,Bollywood
+IB71,2023,"Action, Thriller",7.3,Hindi,Sankalp Reddy,Bollywood
+Tiku Weds Sheru,2023,"Comedy, Drama, Romance",4.8,Hindi,Kabir Khan,Bollywood
+Mast Mein Rehne Ka,2023,"Comedy, Drama",7.7,Hindi,Vijay Maurya,Bollywood
+Kho Gaye Hum Kahan,2023,Drama,7.2,Hindi,Arjun Varain Singh,Bollywood
+Kaathal - The Core,2023,Drama,8.5,Malayalam,Jeo Baby,Mollywood
+2018,2023,"Action, Drama",8.7,Malayalam,Jude Anthany Joseph,Mollywood
+Romancham,2023,"Comedy, Horror",8.3,Malayalam,Jithu Madhavan,Mollywood
+Nanpakal Nerathu Mayakkam,2023,"Comedy, Drama, Mystery",8.1,Malayalam,Lijo Jose Pellissery,Mollywood
+Kannur Squad,2023,"Action, Crime, Drama",8.3,Malayalam,Roby Varghese Raj,Mollywood
+Rorshach,2022,"Action, Mystery, Thriller",7.3,Malayalam,Nissam Basheer,Mollywood
+Thallumaala,2022,"Action, Comedy, Drama",7.8,Malayamin,Khalid Rahman,Mollywood
+Pada,2022,"Drama, Thriller",8.3,Malayalam,Kamal K.M.,Mollywood
+Meppadiyan,2022,"Drama, Thriller",7.9,Malayalam,Vineeth Kumar,Mollywood
+Salute,2022,"Crime, Drama, Thriller",7.7,Malayalam,Roshan Andrews,Mollywood
+CBI 5: The Brain,2022,"Crime, Mystery, Thriller",5.7,Malayalam,K. Madhu,Mollywood
+Kooman,2022,Thriller,7.6,Malayalam,Jeethu Joseph,Mollywood
+Kaduva,2022,"Action, Drama",6.9,Malayalam,Shaji Kailas,Mollywood
+Pathonpatham Noottandu,2022,"Action, Drama, History",7.5,Malayalam,Vinayan,Mollywood
+Love Today,2022,"Comedy, Drama, Romance",8.3,Tamil,Pradeep Ranganathan,Kollywood
+Ponniyin Selvan: II,2023,"Action, Adventure, Drama",7.5,Tamil,Mani Ratnam,Kollywood
+Maaveeran,2023,"Action, Drama, Fantasy",7.8,Tamil,Madonne Ashwin,Kollywood
+Viduthalai Part 1,2023,"Action, Crime, Drama",8.2,Tamil
+Fighter,2024,"Action, Drama, Thriller",6.5,Hindi,Siddharth Anand,Bollywood
+Teri Baaton Mein Aisa Uljha Jiya,2024,"Comedy, Romance, Sci-Fi",5.9,Hindi,Amit Joshi,Bollywood
+Crakk,2024,"Action, Sport, Thriller",4.2,Hindi,Aditya Datt,Bollywood
+Article 370,2024,"Action, Drama",7.4,Hindi,Aditya Suhas Jambhale,Bollywood
+Shaitaan,2024,"Horror, Thriller",7.6,Hindi,Vikas Bahl,Bollywood
+Yodha,2024,"Action, Thriller",7.2,Hindi,Sagar Ambre,Bollywood
+Laapataa Ladies,2024,"Comedy, Drama",8.2,Hindi,Kiran Rao,Bollywood
+Madgaon Express,2024,"Comedy, Drama",7.9,Hindi,Kunal Kemmu,Bollywood
+Crew,2024,"Comedy, Crime, Drama",6.9,Hindi,Rajesh A. Krishnan,Bollywood
+Maidaan,2024,"Drama, Sport, Biography",7.9,Hindi,Amit Ravindernath Sharma,Bollywood
+Bade Miyan Chote Miyan,2024,"Action, Adventure, Sci-Fi",3.8,Hindi,Ali Abbas Zafar,Bollywood
+Srikanth,2024,"Biography, Drama",8.4,Hindi,Tushar Hiranandani,Bollywood
+Mr. & Mrs. Mahi,2024,"Drama, Romance, Sport",6.2,Hindi,Sharan Sharma,Bollywood
+Chandu Champion,2024,"Biography, Drama, Sport",8.8,Hindi,Kabir Khan,Bollywood
+Munjya,2024,"Comedy, Horror",7.5,Hindi,Aditya Sarpotdar,Bollywood
+Kalki 2898 AD,2024,"Action, Adventure, Drama",7.8,Telugu,Nag Ashwin,Tollywood
+Tillu Square,2024,"Comedy, Romance",7.4,Telugu,Mallik Ram,Tollywood
+Gaami,2024,"Adventure, Drama, Fantasy",8.6,Telugu,Vidyadhar Kagita,Tollywood
+Family Star,2024,"Comedy, Drama, Romance",5.7,Telugu,Parasuram,Tollywood
+Kumari Srimathi,2024,"Comedy, Drama",7.8,Telugu,Hasith Goli,Tollywood
+Bhagavanth Kesari,2024,"Action, Drama",7.6,Telugu,Anil Ravipudi,Tollywood
+Hanu-Man,2024,"Action, Adventure, Fantasy, Superhero",8.0,Telugu,Prashanth Varma,Tollywood
+Guntur Kaaram,2024,"Action, Drama",5.5,Telugu,Trivikram Srinivas,Tollywood
+Saindhav,2024,"Action, Drama, Thriller",6.0,Telugu,Sailesh Kolanu,Tollywood
+Premalu,2024,"Comedy, Romance",8.8,Malayalam,Girish A.D.,Mollywood
+Manjummel Boys,2024,"Adventure, Drama, Thriller",8.9,Malayalam,Chidambaram S. Poduval,Mollywood
+Bramayugam,2024,"Horror, Thriller",8.4,Malayalam,Rahul Sadasivan,Mollywood
+Aavesham,2024,"Action, Comedy",8.4,Malayalam,Jithu Madhavan,Mollywood
+Varshangalkku Shesham,2024,"Comedy, Drama",7.6,Malayalam,Vineeth Sreenivasan,Mollywood
+The Goat Life,2024,"Adventure, Biography, Drama",8.1,Malayalam,Blessy,Mollywood
+Anweshippin Kandethum,2024,"Crime, Drama, Thriller",7.9,Malayalam,Darwin Kuriakose,Mollywood
+Guruvayoor Ambalanadayil,2024,"Comedy, Drama",7.6,Malayalam,Vipin Das,Mollywood
+Abraham Ozler,2024,"Crime, Mystery, Thriller",6.8,Malayalam,Midhun Manuel Thomas,Mollywood
+Kingdom of the Planet of the Apes,2024,"Action, Adventure, Sci-Fi",7.0,English,Wes Ball,Hollywood
+Dune: Part Two,2024,"Action, Adventure, Drama",8.6,English,Denis Villeneuve,Hollywood
+Godzilla x Kong: The New Empire,2024,"Action, Adventure, Sci-Fi",6.2,English,Adam Wingard,Hollywood
+Kung Fu Panda 4,2024,"Animation, Action, Adventure",6.4,English,Mike Mitchell,Hollywood
+Ghostbusters: Frozen Empire,2024,"Adventure, Comedy, Fantasy",6.4,English,Gil Kenan,Hollywood
+Civil War,2024,"Action, Drama, Thriller",7.4,English,Alex Garland,Hollywood
+Furiosa: A Mad Max Saga,2024,"Action, Adventure, Sci-Fi",7.9,English,George Miller,Hollywood
+The Fall Guy,2024,"Action, Comedy, Drama",7.1,English,David Leitch,Hollywood
+IF,2024,"Animation, Adventure, Comedy",6.8,English,John Krasinski,Hollywood
+Bad Boys: Ride or Die,2024,"Action, Comedy, Crime",6.7,English,Adil El Arbi,Hollywood
+Inside Out 2,2024,"Animation, Adventure, Comedy",8.2,English,Kelsey Mann,Hollywood
+A Quiet Place: Day One,2024,"Drama, Horror, Sci-Fi",6.9,English,Michael Sarnoski,Hollywood
+Despicable Me 4,2024,"Animation, Adventure, Comedy",6.4,English,Chris Renaud,Hollywood
+Twisters,2024,"Action, Adventure, Thriller",6.8,English,Lee Isaac Chung,Hollywood
+Deadpool & Wolverine,2024,"Action, Adventure, Comedy, Superhero",8.2,English,Shawn Levy,Hollywood
+Borderlands,2024,"Action, Adventure, Comedy",6.1,English,Eli Roth,Hollywood
+Alien: Romulus,2024,"Horror, Sci-Fi",7.3,English,Fede Álvarez,Hollywood
+Beetlejuice Beetlejuice,2024,"Comedy, Fantasy, Horror",7.1,English,Tim Burton,Hollywood
+Transformers One,2024,"Animation, Action, Adventure",7.5,English,Josh Cooley,Hollywood
+The Wild Robot,2024,"Animation, Adventure, Drama",7.9,English,Chris Sanders,Hollywood
+Sonic the Hedgehog 3,2024,"Action, Adventure, Comedy",7.8,English,Jeff Fowler,Hollywood
+Wicked,2024,"Adventure, Family, Fantasy",7.6,English,Jon M. Chu,Hollywood
+Mufasa: The Lion King,2024,"Animation, Adventure, Drama",7.4,English,Barry Jenkins,Hollywood
+Iron Man,2008,"Action, Adventure, Sci-Fi, Superhero",7.9,English,Jon Favreau,Marvel
+The Dark Knight,2008,"Action, Crime, Drama, Superhero",9.0,English,Christopher Nolan,DC
+Avengers: Endgame,2019,"Action, Adventure, Drama, Superhero",8.4,English,Anthony Russo,Marvel
+Spider-Man: Into the Spider-Verse,2018,"Animation, Action, Adventure, Superhero",8.4,English,"Bob Persichetti, Peter Ramsey, Rodney Rothman",Sony
+The Incredibles,2004,"Animation, Action, Adventure, Superhero",8.0,English,Brad Bird,Pixar
+Spider-Man: Across the Spider-Verse,2023,"Animation, Action, Adventure, Superhero",8.7,English,"Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",Sony
+Black Panther,2018,"Action, Adventure, Drama, Superhero",7.3,English,Ryan Coogler,Marvel
+Guardians of the Galaxy,2014,"Action, Adventure, Comedy, Superhero",8.0,English,James Gunn,Marvel
+Avengers: Infinity War,2018,"Action, Adventure, Sci-Fi, Superhero",8.4,English,Anthony Russo,Marvel
+The Batman,2022,"Action, Crime, Drama, Superhero",7.8,English,Matt Reeves,DC
+Superman,1978,"Action, Adventure, Drama, Superhero",7.4,English,Richard Donner,DC
+Spider-Man 2,2004,"Action, Adventure, Sci-Fi, Superhero",7.4,English,Sam Raimi,Sony
+Logan,2017,"Action, Drama, Sci-Fi, Superhero",8.1,English,James Mangold,Marvel
+The Avengers,2012,"Action, Adventure, Sci-Fi, Superhero",8.0,English,Joss Whedon,Marvel
+Wonder Woman,2017,"Action, Adventure, Fantasy, Superhero",7.4,English,Patty Jenkins,DC
+Doctor Strange,2016,"Action, Adventure, Fantasy, Superhero",7.5,English,Scott Derrickson,Marvel
+Thor: Ragnarok,2017,"Action, Adventure, Comedy, Superhero",7.9,English,Taika Waititi,Marvel
+Joker,2019,"Crime, Drama, Thriller, Superhero",8.4,English,Todd Phillips,DC
+Batman Begins,2005,"Action, Crime, Drama, Superhero",8.2,English,Christopher Nolan,DC
+Iron Man 3,2013,"Action, Adventure, Sci-Fi, Superhero",7.1,English,Shane Black,Marvel
+Captain America: The Winter Soldier,2014,"Action, Adventure, Sci-Fi, Superhero",7.8,English,Anthony Russo,Marvel
+Deadpool,2016,"Action, Adventure, Comedy, Superhero",8.0,English,Tim Miller,Marvel
+Shazam!,2019,"Action, Adventure, Comedy, Superhero",7.0,English,David F. Sandberg,DC
+Ant-Man,2015,"Action, Adventure, Comedy, Superhero",7.3,English,Peyton Reed,Marvel
+X-Men: Days of Future Past,2014,"Action, Adventure, Sci-Fi, Superhero",7.9,English,Bryan Singer,Marvel
+The Suicide Squad,2021,"Action, Adventure, Comedy, Superhero",7.2,English,James Gunn,DC
+Black Widow,2021,"Action, Adventure, Sci-Fi, Superhero",6.7,English,Cate Shortland,Marvel
+Shang-Chi and the Legend of the Ten Rings,2021,"Action, Adventure, Fantasy, Superhero",7.4,English,Destin Daniel Cretton,Marvel
+Eternals,2021,"Action, Adventure, Drama, Superhero",6.3,English,Chloé Zhao,Marvel
+Spider-Man: No Way Home,2021,"Action, Adventure, Fantasy, Superhero",8.2,English,Jon Watts,Marvel
+Doctor Strange in the Multiverse of Madness,2022,"Action, Adventure, Fantasy, Superhero",6.9,English,Sam Raimi,Marvel
+Thor: Love and Thunder,2022,"Action, Adventure, Comedy, Superhero",6.2,English,Taika Waititi,Marvel
+Black Panther: Wakanda Forever,2022,"Action, Adventure, Drama, Superhero",6.7,English,Ryan Coogler,Marvel
+The Marvels,2023,"Action, Adventure, Fantasy, Superhero",5.6,English,Nia DaCosta,Marvel
+Guardians of the Galaxy Vol. 3,2023,"Action, Adventure, Comedy, Superhero",7.9,English,James Gunn,Marvel
+Ant-Man and the Wasp: Quantumania,2023,"Action, Adventure, Comedy, Superhero",6.1,English,Peyton Reed,Marvel
+Blue Beetle,2023,"Action, Adventure, Sci-Fi, Superhero",6.0,English,Ángel Manuel Soto,DC
+Shazam! Fury of the Gods,2023,"Action, Adventure, Comedy, Superhero",5.6,English,David F. Sandberg,DC
+The Flash,2023,"Action, Adventure, Fantasy, Superhero",6.7,English,Andy Muschietti,DC
+Aquaman and the Lost Kingdom,2023,"Action, Adventure, Fantasy, Superhero",5.6,English,James Wan,DC
+Spider-Man: Homecoming,2017,"Action, Adventure, Comedy, Superhero",7.4,English,Jon Watts,Marvel
+Captain America: Civil War,2016,"Action, Adventure, Sci-Fi, Superhero",7.8,English,Anthony Russo,Marvel
+X2,2003,"Action, Adventure, Sci-Fi, Superhero",7.4,English,Bryan Singer,Marvel
+X-Men: First Class,2011,"Action, Adventure, Sci-Fi, Superhero",7.7,English,Matthew Vaughn,Marvel
+The Wolverine,2013,"Action, Adventure, Sci-Fi, Superhero",6.7,English,James Mangold,Marvel
+Deadpool 2,2018,"Action, Adventure, Comedy, Superhero",7.7,English,David Leitch,Marvel
+Man of Steel,2013,"Action, Adventure, Sci-Fi, Superhero",7.1,English,Zack Snyder,DC
+Batman v Superman: Dawn of Justice,2016,"Action, Adventure, Sci-Fi, Superhero",6.4,English,Zack Snyder,DC
+Suicide Squad,2016,"Action, Adventure, Fantasy, Superhero",5.9,English,David Ayer,DC
+Justice League,2017,"Action, Adventure, Fantasy, Superhero",6.1,English,Zack Snyder,DC
+Birds of Prey,2020,"Action, Adventure, Crime, Superhero",6.1,English,Cathy Yan,DC
+The New Mutants,2020,"Action, Horror, Sci-Fi, Superhero",4.9,English,Josh Boone,Marvel
+Morbius,2022,"Action, Adventure, Horror, Superhero",5.2,English,Daniel Espinosa,Marvel
+Madame Web,2024,"Action, Adventure, Sci-Fi, Superhero",3.8,English,S.J. Clarkson,Sony
+Kraven the Hunter,2024,"Action, Adventure, Crime, Superhero",-1,English,J.C. Chandor,Sony
+Venom,2018,"Action, Adventure, Sci-Fi, Superhero",6.6,English,Ruben Fleischer,Sony
+Venom: Let There Be Carnage,2021,"Action, Adventure, Sci-Fi, Superhero",5.9,English,Andy Serkis,Sony
+Spider-Man,2002,"Action, Adventure, Sci-Fi, Superhero",7.4,English,Sam Raimi,Sony
+The Amazing Spider-Man,2012,"Action, Adventure, Sci-Fi, Superhero",6.9,English,Marc Webb,Sony
+The Amazing Spider-Man 2,2014,"Action, Adventure, Sci-Fi, Superhero",6.6,English,Marc Webb,Sony
+Big Hero 6,2014,"Animation, Action, Adventure, Superhero",7.8,English,"Don Hall, Chris Williams",Disney
+The Incredibles 2,2018,"Animation, Action, Adventure, Superhero",7.6,English,Brad Bird,Pixar
+Megamind,2010,"Animation, Action, Comedy, Superhero",7.3,English,Tom McGrath,DreamWorks
+Teen Titans Go! To the Movies,2018,"Animation, Action, Comedy, Superhero",6.8,English,"Aaron Horvath, Peter Rida Michail",DC
+The Lego Batman Movie,2017,"Animation, Action, Comedy, Superhero",7.3,English,Chris McKay,DC
+Batman: Mask of the Phantasm,1993,"Animation, Action, Crime, Superhero",7.8,English,"Eric Radomski, Bruce Timm",DC
+Batman: The Dark Knight Returns,2012,"Animation, Action, Crime, Superhero",8.0,English,Jay Oliva,DC
+Superman vs. The Elite,2012,"Animation, Action, Adventure, Superhero",7.3,English,Michael Chang,DC
+Justice League: The Flashpoint Paradox,2013,"Animation, Action, Adventure, Superhero",8.0,English,Jay Oliva,DC
+Batman: Under the Red Hood,2010,"Animation, Action, Crime, Superhero",8.1,English,Brandon Vietti,DC
+Green Lantern: First Flight,2009,"Animation, Action, Adventure, Superhero",7.3,English,Lauren Montgomery,DC
+All-Star Superman,2011,"Animation, Action, Adventure, Superhero",7.3,English,Sam Liu,DC
+Justice League: War,2014,"Animation, Action, Adventure, Superhero",7.2,English,Jay Oliva,DC
+Batman: Assault on Arkham,2014,"Animation, Action, Crime, Superhero",7.5,English,Jay Oliva,DC
+Justice League: Throne of Atlantis,2015,"Animation, Action, Adventure, Superhero",6.7,English,Ethan Spaulding,DC
+Batman: The Killing Joke,2016,"Animation, Action, Crime, Superhero",6.4,English,Sam Liu,DC
+Teen Titans: The Judas Contract,2017,"Animation, Action, Adventure, Superhero",7.3,English,Sam Liu,DC
+Batman: Gotham by Gaslight,2018,"Animation, Action, Crime, Superhero",6.7,English,Sam Liu,DC
+Justice League vs. the Fatal Five,2019,"Animation, Action, Adventure, Superhero",6.8,English,Sam Liu,DC
+Superman: Red Son,2020,"Animation, Action, Adventure, Superhero",6.8,English,Sam Liu,DC
+Justice Society: World War II,2021,"Animation, Action, Adventure, Superhero",6.7,English,Jeff Wamester,DC
+Batman: The Long Halloween,2021,"Animation, Action, Crime, Superhero",7.3,English,Chris Palmer,DC
+Green Lantern: Beware My Power,2022,"Animation, Action, Adventure, Superhero",5.8,English,Jeff Wamester,DC
+Justice League: Crisis on Infinite Earths,2024,"Animation, Action, Adventure, Superhero",6.8,English,Jeff Wamester,DC
+Batman: Caped Crusader,2024,"Animation, Action, Crime, Superhero",-1,English,"Bruce Timm, J.J. Abrams",DC
+The Super Mario Bros. Movie,2023,"Animation, Adventure, Comedy",7.0,English,"Aaron Horvath, Michael Jelenic",Illumination
+Finding Nemo,2003,"Animation, Adventure, Comedy",8.2,English,"Andrew Stanton, Lee Unkrich",Pixar
+Frozen,2013,"Animation, Adventure, Comedy",7.4,English,"Chris Buck, Jennifer Lee",Disney
+Zootopia,2016,"Animation, Adventure, Comedy",8.0,English,"Byron Howard, Rich Moore",Disney
+Moana,2016,"Animation, Adventure, Comedy",7.6,English,"Ron Clements, John Musker",Disney
+Coco,2017,"Animation, Adventure, Drama",8.4,English,"Lee Unkrich, Adrian Molina",Pixar
+Ratatouille,2007,"Animation, Adventure, Comedy",8.1,English,Brad Bird,Pixar
+Up,2009,"Animation, Adventure, Comedy",8.3,English,"Pete Docter, Bob Peterson",Pixar
+Wall-E,2008,"Animation, Adventure, Family",8.4,English,Andrew Stanton,Pixar
+Snow White and the Seven Dwarfs,1937,"Animation, Family, Fantasy",7.6,English,"David Hand, William Cottrell",Disney
+Pinocchio,1940,"Animation, Drama, Family",7.5,English,"Ben Sharpsteen, Hamilton Luske",Disney
+Dumbo,1941,"Animation, Drama, Family",7.2,English,"Ben Sharpsteen, Samuel Armstrong",Disney
+Bambi,1942,"Animation, Drama, Family",7.3,English,"David Hand, James Algar",Disney
+One Hundred and One Dalmatians,1961,"Animation, Adventure, Comedy",7.3,English,"Clyde Geronimi, Hamilton Luske",Disney
+The Jungle Book,1967,"Animation, Adventure, Family",7.6,English,Wolfgang Reitherman,Disney
+How to Train Your Dragon,2010,"Animation, Action, Adventure",8.1,English,"Dean DeBlois, Chris Sanders",DreamWorks
+Kung Fu Panda,2008,"Animation, Action, Adventure",7.6,English,"Mark Osborne, John Stevenson",DreamWorks
+Madagascar,2005,"Animation, Adventure, Comedy",6.9,English,"Eric Darnell, Tom McGrath",DreamWorks
+Shrek 2,2004,"Animation, Adventure, Comedy",7.3,English,"Andrew Adamson, Kelly Asbury",DreamWorks
+Ice Age,2002,"Animation, Adventure, Comedy",7.5,English,"Chris Wedge, Carlos Saldanha",Blue Sky
+Finding Dory,2016,"Animation, Adventure, Comedy",7.2,English,"Andrew Stanton, Angus MacLane",Pixar
+"Monsters, Inc.",2001,"Animation, Adventure, Comedy",8.1,English,"Pete Docter, David Silverman",Pixar
+Monsters University,2013,"Animation, Adventure, Comedy",7.3,English,Dan Scanlon,Pixar
+The Simpsons Movie,2007,"Animation, Adventure, Comedy",7.3,English,David Silverman,20th Century
+"South Park: Bigger, Longer & Uncut",1999,"Animation, Comedy, Musical",7.7,English,Trey Parker,Paramount
+Spirited Away,2001,"Animation, Adventure, Family",8.6,Japanese,Hayao Miyazaki,Studio Ghibli
+Howl's Moving Castle,2004,"Animation, Adventure, Family",8.2,Japanese,Hayao Miyazaki,Studio Ghibli
+Ponyo,2008,"Animation, Adventure, Comedy",7.7,Japanese,Hayao Miyazaki,Studio Ghibli
+The Wind Rises,2013,"Animation, Biography, Drama",7.8,Japanese,Hayao Miyazaki,Studio Ghibli
+Demon Slayer: Mugen Train,2020,"Animation, Action, Adventure",8.2,Japanese,Harfumi Itou,Ufotable
+Your Name,2016,"Animation, Drama, Fantasy",8.2,Japanese,Makoto Shinkai,CoMix Wave
+Weathering With You,2019,"Animation, Drama, Fantasy",7.5,Japanese,Makoto Shinkai,CoMix Wave
+Suzume,2022,"Animation, Adventure, Drama",7.7,Japanese,Makoto Shinkai,CoMix Wave
+A Silent Voice,2016,"Animation, Drama, Romance",8.1,Japanese,Naoko Yamada,Kyoto Animation
+Wolf Children,2012,"Animation, Drama, Family",8.1,Japanese,Mamoru Hosoda,MadhouseHi Nanna,2023,"Drama, Family, Romance",8.2,Telugu,Shouryuv,India
+Hi Nanna,2023,"Drama, Family, Romance",8.2,Telugu,Shouryuv,IndiaHi Nanna,2023,"Drama, Family, Romance",8.2,Telugu,Shouryuv,India
+Queen,2013,"Adventure, Comedy, Drama",8.1,Hindi,Vikas Bahl,India
+Dangal,2016,"Action, Biography, Drama",8.3,"Hindi, English",Nitesh Tiwari,"India, United States"
+AA BB KK,2018,Drama,7.4,"Hindi, Marathi, Malayalam",Ramkumar Shedge,India
+Bahu,1955,"Drama, Family",6.9,Hindi,"Shakti Samanta, Chaman Lal Pahwa",India
+G,1983,"Drama, Music, Musical",5.3,Swedish,Staffan Hildebrand,Sweden
+Unfriended,2014,"Horror, Mystery, Thriller",5.6,English,Levan Gabriadze,"Russia, United States"
+OMG,2012,"Short, Drama",8.0,English,Christopher Sandberg,United States
+OMG: Oh My God!,2012,"Comedy, Drama, Fantasy",8.1,Hindi,Umesh Shukla,India
+Ji,2005,"Action, Drama",4.1,Tamil,N. Linguswamy,India
+John Wick: Chapter 4,2023,"Action, Crime, Thriller",7.6,"English, Japanese, Russian, French, Spanish, German, Latin, Cantonese, Arabic",Chad Stahelski,"United States, Germany"
+John Wick,2014,"Action, Crime, Thriller",7.5,"English, Russian, Hungarian",Chad Stahelski,United States
+Fast X,2023,"Action, Adventure, Crime",5.7,"English, Spanish, French, Arabic, Portuguese, Italian",Louis Leterrier,"United States, China, Japan, Spain, United Kingdom, Iceland"
+Spirit,2012,"Comedy, Drama",7.5,Malayalam,Ranjith,India
+Aa Naluguru,2004,Drama,8.6,Telugu,Chandra Siddhartha,India
+Kali,2016,"Action, Thriller",6.9,Malayalam,Sameer Thahir,India
+Lokha Samastha,2015,Drama,3.2,Malayalam,Sajith Sivan,India
+Sk,2014,"Documentary, Short",N/A,None,"Guillermo Carreras-Candi, Emilio Guerra Delgado, Kumjana Novakova","Bosnia and Herzegovina, Kosovo, Spain, North Macedonia"
+PK,2014,"Comedy, Drama, Musical",8.1,Hindi,Rajkumar Hirani,India
+Autismal KV,2016,"Short, Action, Comedy",7.2,German,Marc Outbreak,Germany
+KA,2024,"Action, Thriller",7.2,Telugu,"Sandeep, Sujeeth",India
+Wei Hun Nan Nv,2017,"Comedy, Drama, Romance",7.4,Mandarin,Zero Chou,Taiwan
+Zero,2018,"Comedy, Drama, Romance",5.2,Hindi,Aanand L. Rai,India
+L,2012,"Comedy, Drama",5.4,Greek,Babis Makridis,Greece
+HS - hors service,2001,"Comedy, Crime",4.6,French,Jean-Paul Lilienfeld,"France, Belgium"
+Hitman,2007,"Action, Crime, Thriller",6.2,"English, Russian, Serbo-Croatian",Xavier Gens,"France, United States, Turkey, Russia, Bulgaria, South Africa"
+Son of the Mask,2005,"Comedy, Family, Fantasy",2.3,English,Lawrence Guterman,"United States, Germany, Australia, France, Pakistan"
+Son of Sardaar 2,2025,Comedy,7.4,Hindi,Vijay Kumar Arora,India
+Son of Sardaar,2012,"Action, Comedy, Romance",4.4,Hindi,"Ashwani Dhir, Anil Devgan",India
+"The Good, the Bad and the Ugly",1966,"Adventure, Drama, Western",8.8,"Italian, English",Sergio Leone,"Italy, Spain, West Germany, United States"
+Memories,1995,"Animation, Drama, Horror",7.5,"Japanese, English, Italian","Katsuhiro Ôtomo, Kôji Morimoto, Tensai Okamura",Japan
+The Fast and the Furious: Tokyo Drift,2006,"Action, Crime, Thriller",6.1,"English, Japanese, Portuguese",Justin Lin,"Germany, United States"
+Sinners,2025,"Action, Drama, Horror",7.6,"English, Chinese",Ryan Coogler,"United States, Australia, Canada"
+Eternal Summer,2006,"Drama, Romance",6.9,Mandarin,Leste Chen,Taiwan
+O,2001,"Drama, Romance, Thriller",6.1,English,Tim Blake Nelson,United States
+Trang Ti Phieu Luu Ky,2021,"Comedy, Family, Fantasy",4.2,Vietnamese,Phan Gia Nhat Linh,Vietnam
+Ko,2011,"Action, Thriller",7.9,Tamil,K.V. Anand,India
+U-571,2000,"Action, War",6.6,"English, German",Jonathan Mostow,"France, United States"
+R,2010,"Crime, Drama",7.1,"Danish, Arabic","Tobias Lindholm, Michael Noer",Denmark
+Your Name.,2016,"Animation, Drama, Fantasy",8.4,Japanese,Makoto Shinkai,Japan
+Justice League: Crisis on Infinite Earths - Part One,2024,"Animation, Action, Adventure",6.2,English,Jeff Wamester,United States
+J. Edgar,2011,"Biography, Drama, Romance",6.5,English,Clint Eastwood,United States
+UI,2024,"Action, Sci-Fi",7.3,Kannada,Upendra,India
+"J.J.J., o Amigo do Super-Homem",1978,Comedy,5.6,Portuguese,Denoy de Oliveira,Brazil
+Notting Hill,1999,"Comedy, Drama, Romance",7.2,"English, Spanish, French",Roger Michell,"United Kingdom, United States"
+The Fast and the Furious,2001,"Action, Crime, Thriller",6.8,"English, Spanish",Rob Cohen,"United States, Germany"
+Fast and Furious,1939,"Comedy, Crime, Mystery",6.1,English,Busby Berkeley,United StatesLove,2015,"Drama, Romance",6.1,"English, French",Gaspar Noé,"France, Belgium, Brazil"
+My Big Fat Greek Wedding,2002,"Comedy, Drama, Romance",6.6,"English, Greek",Joel Zwick,"Canada, United States, Germany"
+D,2005,"Crime, Drama, Thriller",6.8,Hindi,Vishram Sawant,India
