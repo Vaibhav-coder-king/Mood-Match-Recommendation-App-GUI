@@ -478,7 +478,8 @@ class App:
 	def clk_list_box(self,x):
 		self.search_genre.delete(0,"end")
 		self.search_genre.insert(0,x)
-		self.main.update()	
+		self.main.update()
+		self.change_list()
 	
 	
 	
@@ -635,6 +636,7 @@ class App:
 				
 			self.show_from_name(self.data)
 			self.chk_locol(self.data)
+			self.start_start=True
 		except:
 			mb.showinfo(title="No Internet",message="Plz,Check Your Internet\n and Your input.")
 			self.start_start=True
